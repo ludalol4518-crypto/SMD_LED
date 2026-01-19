@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/24706095/README.2.md)
 # SMD LED Module Test - NUCLEO-F103RB
 
 SMD(Surface Mount Device) LED 모듈을 STM32F103 NUCLEO 보드에서 GPIO 및 PWM으로 제어하는 프로젝트입니다.
