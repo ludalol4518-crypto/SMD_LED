@@ -322,3 +322,33 @@ void RGB_Demo_Rainbow(void)
 ## 📜 라이선스
 
 MIT License
+
+
+👍프로젝트 결과 
+
+RED
+![R](https://github.com/user-attachments/assets/6b715c09-bf10-4674-98ed-1f81b4d2fbde)
+
+GREEN
+![G](https://github.com/user-attachments/assets/6ca455fb-9897-46c7-8a2e-c69dff1206aa)
+
+BLUE
+![B](https://github.com/user-attachments/assets/59a324f0-22c5-4f06-bce7-a199738789ff)
+
+YELLOW
+![Y](https://github.com/user-attachments/assets/b7ec9ce9-712d-42f4-979d-5b11a5d2a406)
+
+
+CYAN
+![C](https://github.com/user-attachments/assets/d31b9dec-0829-479d-8f0e-b58f39ea4b89)
+
+MAGENTA
+![M](https://github.com/user-attachments/assets/54d8e550-8702-4fec-a874-5ac515f7d1f5)
+
+WHITE
+![W](https://github.com/user-attachments/assets/a29a50d6-315f-4e35-8a8a-bad84fc0838c)
+
+
+
+
+
